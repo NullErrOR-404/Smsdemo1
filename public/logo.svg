@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 40" fill="none" role="img" aria-label="SalonDesk">
+  <rect x="1" y="4" width="32" height="32" rx="2" fill="#1A1714"/>
+  <path d="M11 12L23 28M23 12L11 28" stroke="#F4EFE6" stroke-width="1.8" stroke-linecap="square"/>
+  <circle cx="11" cy="12" r="2.2" fill="#1F4D3A" stroke="#F4EFE6" stroke-width="1.2"/>
+  <circle cx="23" cy="12" r="2.2" fill="#1F4D3A" stroke="#F4EFE6" stroke-width="1.2"/>
+  <rect x="1" y="33" width="32" height="3" fill="#1F4D3A"/>
+  <text x="44" y="27" font-family="Georgia, 'Times New Roman', serif" font-size="24" letter-spacing="-0.5" fill="#1A1714">SalonDesk</text>
+</svg>
